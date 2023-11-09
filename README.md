@@ -1,5 +1,5 @@
 # Project_03_Recommendation_System
-<font color="red">Business Objective:
+-Business Objective: red
 Generate the features from the dataset and use them to recommend the books accordingly to the users.
 Content
 The Book-Crossing dataset comprises 3 files.
