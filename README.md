@@ -1,5 +1,5 @@
 # Project_03_Recommendation_System
-
+<font color="red">
 Business Objective:
 Generate the features from the dataset and use them to recommend the books accordingly to the users.
 Content
@@ -10,4 +10,4 @@ Books
 Books are identified by their respective ISBN. Invalid ISBNs have already been removed from the dataset. Moreover, some content-based information is given (Book-Title, Book-Author, Year-Of-Publication, Publisher), obtained from Amazon Web Services. Note that in case of several authors, only the first is provided. URLs linking to cover images are also given, appearing in three different flavours (Image-URL-S, Image-URL-M, Image-URL-L), i.e., small, medium, large. These URLs point to the Amazon web site.
 Ratings
 Contains the book rating information. Ratings (Book-Rating) are either explicit, expressed on a scale from 1-10 (higher values denoting higher appreciation), or implicit, expressed by 0.
-	
+</font>
